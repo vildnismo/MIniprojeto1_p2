@@ -1,4 +1,3 @@
-# MIniprojeto1_p2
 import java.util.Scanner;
 
 public class Academia {
@@ -13,10 +12,8 @@ public class Academia {
         
         System.out.print("Okay, agora digite sua idade: ");
         int idade = scanner.nextInt();
-        scanner.nextLine();
-        
-    
-    System.out.print("Agora digite o seu e-mail: ");
+
+        System.out.print("Agora digite o seu e-mail: ");
         String email = scanner.nextLine();
 
         System.out.print("Seu telefone: ");
